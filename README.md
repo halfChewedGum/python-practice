@@ -5,8 +5,11 @@ Coding exercises for practice
 Starting out with the following websites:
 
 https://www.practicepython.org/
+
 https://www.w3resource.com/python-exercises/
+
 https://pynative.com/python-exercises-with-solutions/
+
 https://codingbat.com/python
 
 Naming convension for files: [website][q#] 
